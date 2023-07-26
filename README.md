@@ -1,2 +1,9 @@
 # Data-Structure-and-Algorithms
-Implementation of various data structures in Python
+Implementation of:
+<ul>
+  <li>Dynamic Array</li>
+  <li>Linked List</li>
+  <li>Stack</li>
+  <li>Binary Search Tree</li>
+  <li>Insertion Sort</li>
+</ul>
